@@ -57,7 +57,7 @@
 	bottom: 0;
 }*/
 /*DESAFIO 4*/
-body{
+/*body{
 	margin: 0;
 	padding: 0;
 }
@@ -76,6 +76,33 @@ body{
 	background: #287DB9;
 	position: relative;
 	left: 200px;
+}
+#verde{
+	background: #B7D84B;
+}
+#amarillo{
+	background-color: yellow;
+}*/
+/*DESAFIO 5*/
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+#rosa{
+	background: #EE3E64;
+}
+#azul{
+	background: #287DB9;
+	/*position: relative;*/
+	left: 400px;
 }
 #verde{
 	background: #B7D84B;
