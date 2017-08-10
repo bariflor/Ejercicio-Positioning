@@ -1,4 +1,63 @@
+/*DESAFIO 2*/
+/*body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+#rosa{
+	background: #EE3E64;
+}
+#azul{
+	background: #287DB9;
+	position: relative;
+	left: 200px;
+}
+#verde{
+	background: #B7D84B;
+}*/
+/*DESAFIO 3*/
 body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+#rosa{
+	background: #EE3E64;
+	left: 0;
+	top: 0;
+}
+#azul{
+	background: #287DB9;
+	right: 0;
+	top: 0;
+}
+#verde{
+	background: #B7D84B;
+	left: 0;
+	bottom: 0;
+}
+#amarillo{
+	background-color: yellow;
+	right: 0;
+	bottom: 0;
+}
+/*DESAFIO 4*/
+/*body{
 	margin: 0;
 	padding: 0;
 }
@@ -21,3 +80,6 @@ body{
 #verde{
 	background: #B7D84B;
 }
+#amarillo{
+	background-color: yellow;
+}*/
